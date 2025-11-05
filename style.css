@@ -117,9 +117,11 @@ section{
   
 }
 .trans{
-  background-color: rgba(255, 255, 255, 0.308);
-  height: 100vh;
-  padding: 5% 10%;
+   background-color: rgba(255, 255, 255, 0.308);
+      height: 100vh;
+    padding: 5% 10%;
+    display: flex;
+    align-items: center;
 }
 .main-text h5{
     color: #EE1C47;
@@ -921,4 +923,5 @@ header.sticky{
     color: #111;
     text-transform: capitalize;
 }
+
 
